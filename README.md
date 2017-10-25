@@ -1,4 +1,4 @@
-<h2>MusicXML2JSON</h2>
+<h2>Music Score Metadata Builder</h2>
 <br>
 
 <div>The purpose of this node module is to convert MusicXML files into timestamped JSON files, in order to make this type of data more suited to time-series analysis and data visualization. MusicXML does not explicitly encode time information (in the sense that any particular note or rest can not be interrogated for its temporal position). MusicJSON sets out to solve this conundrum!</div>
