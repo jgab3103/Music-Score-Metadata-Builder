@@ -1,0 +1,3 @@
+**/node_modules/**
+**/visualization/node_modules/**
+**/musicXML2MusicJSON/outputData/**

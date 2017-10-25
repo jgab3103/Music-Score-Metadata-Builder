@@ -1,0 +1,14 @@
+{
+    "Genre": "Baroque",
+	"Composer name": "Johann Sebastian Bach",
+	"Composer nationality": "German",
+	"Title": "Brandenberg Concerto No. 2 In F major, Allegro (I)",
+    "Catalog ID": "BWV 1047",
+	"Composer collection": "Brandenberg Concertos",
+	"Date composed": 1721,
+	"Composed location": {
+		"lat": [51.7506, "N"],
+		"lon": [11.9802, "E"]
+	}
+
+}

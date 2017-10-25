@@ -1,0 +1,14 @@
+{
+	"Genre": "Baroque",
+    "Composer name": "Johann Sebastian Bach",
+	"Composer nationality": "German",
+	"Title": "Choral test 2",
+    "Catalog ID": "BWV XX",
+	"Composer collection": "Chorals",
+	"Date composed": 1721,
+	"Composed location": {
+		"lat": [51.7506, "N"],
+		"lon": [11.9802, "E"]
+	}
+
+}

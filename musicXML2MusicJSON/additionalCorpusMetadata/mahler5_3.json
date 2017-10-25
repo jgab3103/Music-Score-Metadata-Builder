@@ -1,0 +1,13 @@
+{
+    "Genre": "Late Romantic",
+    "Composer name": "Gustav Mahler",
+	"Composer nationality": "Austria",
+	"Title": "Symphony No. 5, (III)",
+	"Composer collection": "Symphonies",
+	"Date composed": 1902,
+	"Composed location": {
+		"lat": [46.6, "N"],
+		"lon": [14.2333, "E"]
+	}
+
+}

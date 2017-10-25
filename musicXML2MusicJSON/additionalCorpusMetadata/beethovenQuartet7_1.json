@@ -1,0 +1,15 @@
+{
+    "Genre": "Romantic",
+	"Composer name": "Ludwig Van Beethoven",
+	"Composer nationality": "German",
+	"Title": "String Quartet no. 7 In F Major, Allegro (I)",
+	"Catalog ID": "Opus 59, No. 1",
+    "Composer collection": "String Quartets",
+	"Date composed": 1808,
+	"Composed location": {
+		"lat": [48.2082, "N"],
+		"lon": [16.3738, "E"]
+	}
+
+}
+
